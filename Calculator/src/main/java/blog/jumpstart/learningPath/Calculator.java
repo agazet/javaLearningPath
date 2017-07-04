@@ -6,6 +6,9 @@ package blog.jumpstart.learningPath;
  * Class calcualtor used for simpla calculations
  */
 public class Calculator {
+	
+	String producentName = "Casio";
+	String model="fx-350ES PLUS";
 
 	public int add(int summand1, int summand2){
 		//TODO 
@@ -32,7 +35,7 @@ public class Calculator {
 		return 0;
 	}
 
-	public int modulo(int i, int j) {
+	public int modulo(int dividend, int divider) {
 		//TODO 
 		return 0;
 	}
