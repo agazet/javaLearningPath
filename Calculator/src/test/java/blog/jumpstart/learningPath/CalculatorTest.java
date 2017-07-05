@@ -1,10 +1,22 @@
+/**
+ * This file is created for Potato Coding Adventure
+ * you can find the Adventure on our blog:
+ * potatocodingadventure.wordpress.com
+ * feel free to learn from the code,
+ * just remeber to state who wrote it
+ * Aga - Your Guide on the Adventure
+ */
 package blog.jumpstart.learningPath;
 
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ * @author Aga - your guide on Potato Coding Adventure
+ *
+ */
 public class CalculatorTest {
-
+	
 	@Test
 	public void sum() {
 		Calculator calculator = new Calculator();
@@ -40,5 +52,6 @@ public class CalculatorTest {
 		Calculator calculator = new Calculator();
 		Assert.assertEquals(8, calculator.power(2, 3));
 	}
+
 
 }

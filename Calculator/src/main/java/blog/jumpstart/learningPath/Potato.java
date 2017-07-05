@@ -1,10 +1,15 @@
 /**
- * 
+ * This file is created for Potato Coding Adventure
+ * you can find the Adventure on our blog:
+ * potatocodingadventure.wordpress.com
+ * feel free to learn from the code,
+ * just remeber to state who wrote it
+ * Aga - Your Guide on the Adventure
  */
 package blog.jumpstart.learningPath;
 
 /**
- * @author azaboklicka
+ * @author Aga - your guide on Potato Coding Adventure
  *
  */
 public class Potato {
