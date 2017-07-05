@@ -1,9 +1,7 @@
 /**
  * 
  */
-package blog.jumpstart.learningPath.potato;
-
-import blog.jumpstart.learningPath.Calculator;
+package blog.jumpstart.learningPath;
 
 /**
  * @author azaboklicka
